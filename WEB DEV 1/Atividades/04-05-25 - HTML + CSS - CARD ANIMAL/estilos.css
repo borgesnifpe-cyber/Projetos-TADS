@@ -1,0 +1,66 @@
+html { /*body*/
+font-family: Arial, Helvetica, sans-serif;
+background-color: #f5f5f5;
+min-height: 100vh;
+}
+
+.card{
+    background-color: white;
+    border-radius: 10px;
+    box-shadow:  
+      1px 1px 1px 1px hsl(0deg 0% 0% / 0.075),
+      1px 1px 2px 2px hsl(0deg 0% 0% / 0.075),
+      1px 1px 4px 4px hsl(0deg 0% 0% / 0.075),
+      1px 1px 8px 8px hsl(0deg 0% 0% / 0.075),
+      1px 1px 16px 16px hsl(0deg 0% 0% / 0.075);
+    padding: 20px;
+    width: 400px;
+    margin: auto;
+    margin-top: 20px;
+}
+
+h1 {
+    color: #e67e22;
+    margin-top: 0;
+}
+.cientifico {
+    color: #7f8c8d;
+    font-style: italic;
+}
+
+ul>li {
+list-style: circle;
+}
+
+.detalhes p {
+color: #555;
+}
+
+.detalhes {
+    background-color:#f9f9f9;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.detalhes + p.curiosidade  {
+    color: green;
+}
+
+h1+p {
+    font-size: 0.9em;
+}
+
+.card > p {
+    font-weight: bold;
+    color: #333;
+}
+
+h1~* {
+    border-top: solid grey 1px;
+    padding: 10px;
+
+}
+
+h1+* {
+    border-top: transparent;
+}

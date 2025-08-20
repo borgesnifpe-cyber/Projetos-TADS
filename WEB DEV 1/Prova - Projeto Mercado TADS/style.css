@@ -1,0 +1,497 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+/* FALTA INSERIR OS EFEITOS DE CLIQUES E SOMBRAS EM TODO O DOCUMENTO ASSIM COMO INSERIR OS EFEITOS DE HOVER EM TUDO */
+
+html {
+    font-family: Roboto;
+    box-sizing: border-box;
+    margin: 0;
+}
+
+/* Configurações do Header */
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    background-color: lightgray;
+    padding: 10px;
+}
+
+section {
+    display: flex;
+    flex-direction: column;
+    background-color: lightgray;
+    width: 1200px;
+    padding: 10px;
+    gap:10px;
+}
+
+section>div{
+    display: flex;
+    gap: 10px;
+    width: 1200px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+/* Logo */
+
+.logo2 {
+    align-items: flex-start;
+    width: 200px;
+    flex-wrap: nowrap;
+}
+
+#logo {
+    color: #2f9e41;
+    font-weight: bold;
+    font-size: 24px;
+    text-decoration: none;
+}
+
+#logo1 {
+    font-size: 28px;
+}
+
+.menuLateral {
+    display: flex;
+    width: 300px;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.menuLateral>a {
+    display: flex;
+    gap:10px;
+    align-items: center;
+    justify-content: center;
+    font-size: 14px;
+}
+
+/* Div de Pesquisa */
+.pesquisa {
+    display: flex;
+    background-color: white;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+    width: 580px;
+    border-radius: 5px;
+}
+
+form input button{
+    width:530px;
+    border: transparent;
+    align-items: flex-start;
+    justify-content: flex-start;
+    height: 30px;
+    border-radius: 5px;
+}
+
+form>input {
+    width:530px;
+    border: transparent;
+    align-items: flex-start;
+    justify-content: flex-start;
+    height: 30px;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+.pesquisa> a {
+    height: 20px;
+    width: 30px;
+    justify-content: flex-end;
+}
+
+form>button {
+    color: #2f9e41;
+    text-decoration: none;
+    border: transparent;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+/* Ícones da direita no menu de topo */
+.iconsHeader {
+    text-decoration: none;
+    color:black;
+}
+
+/* NAV BAR */
+ul {
+    display: flex;
+    justify-content: flex-start;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    gap: 15px;
+    flex-grow: 1;
+}
+
+ul>a {
+    text-decoration: none;
+    color:black;
+    font-size: 14px;
+}
+
+/* HOVER HEADER */
+
+header a:hover {
+    color:#00a650;
+    cursor: pointer;
+}
+
+/* BANNER */
+.banner {
+    display: flex;
+    height: 160px;
+    width: 100vw;
+    background-color: #2f9e41;
+    align-items: center;
+    box-sizing: border-box;
+    justify-content: center;
+}
+
+.banner1 {
+    display: flex;
+    height: 160px;
+    width: 1200px;
+    background-image: url(images/banner.png);
+    flex-direction: column;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.banner1>h1 {
+    margin: 0;
+    color: white;
+    font-size: 2em;
+}
+
+.banner1>p {
+    margin: 0;
+    color: white;
+    font-size: 19px;
+}
+
+/* GENÉRICO DO HERO */
+
+.main {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    width: 100vw;
+    background-color: #ebebeb;
+    gap: 10px;
+}
+
+/* TOPO DO HERO - CATEGORIAS */
+
+.top-main {
+    display: flex;
+    flex-grow: 1;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    align-self: center;
+    border-radius: 10px;
+}
+
+.top-main ul {
+    display: flex;
+    width: 1200px;
+    height: 130px;
+    justify-content: center;
+    align-items: center;
+    gap:20px;
+}
+
+.top-main li {
+    height: 100px;
+    width: 90px;
+}
+
+.top-main li>a {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    height: 100px;
+    align-items: center;
+    gap:5px;
+    justify-content: center;
+    cursor: pointer;
+    color: black;
+    text-decoration: none;
+    font-size: 12px;
+}
+
+.top-main li a>div {
+    display: flex;
+    background-color: #2f9e41;
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    align-items: center;
+    justify-content: center;
+    font-size: 24px;
+    color: white;
+}
+
+/* HOVER - CATEGORIAS */
+
+.categorias li:hover {
+    box-shadow: 5px 5px 40px #ebebeb
+}
+
+/* DESTAQUES */
+
+.destaque {
+    display: flex;
+    flex-grow: 1;
+    width: 1200px;
+    align-self: center;
+    gap: 10px;
+}
+
+.destaque article {
+    display: flex;
+    height: 500px;
+    flex-direction: column;
+    flex-grow: 1;
+    background-color: white;
+    border-radius: 10px;
+    gap:10px;
+    justify-content: space-around;
+}
+
+.destaque article>h2 {
+    padding: 15px 10px 10px 15px;
+    margin: 0;
+    font-size: 24px;
+}
+
+.destaque article>img {
+    width: 393.34px;
+    height: 300px;
+    object-fit:cover;
+}
+
+.miniaturas {
+    display: flex;
+    flex-grow: 1;
+    justify-content: space-evenly;
+    width: 393.34px;
+    align-items: center;
+
+}
+
+.miniaturas img {
+    width: 100px;
+    border-radius: 10px;
+    border: solid 3px lightgray;
+}
+
+/* DESTAQUES - HOVER (MINIATURAS) */
+.destaque .miniaturas img:hover {
+    border:#00a650 3px solid;
+    transform: none;
+}
+
+/* OFERTAS DO DIA */
+
+.Ofertas {
+    display:flex;
+    flex-direction: column;
+    flex-grow: 1;
+    width: 1200px;
+    background-color: white;
+    align-self: center;
+    align-items: flex-start;
+    gap: 10px;
+    padding: 15px;
+    margin: 0;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+
+.Ofertas>h2 {
+    margin:0;
+    padding: 10px;
+    font-size: 24px;
+}
+
+.cards-ofertas {
+    display: flex;
+    flex-grow: 1;
+    flex-direction: row;
+    flex-wrap: wrap; /* Apesar de no PDF dizer para fazer rolagem horizontal, no vídeo e na imagem de referência os itens aparecem com quebra de linha portanto foi utilizado o flex-wrap: wrap para coesão com a referência*/
+    padding: 10px;
+    gap: 20px;
+}
+
+.Ofertas article {
+    display: flex;
+    flex-direction: column;
+    height: 220px;
+    width: 150px;
+    margin: 10px;
+    box-sizing: border-box;
+    padding: 5px;
+    gap:10px;
+}
+
+.Ofertas article>img {
+    height: 140px;
+    width: 130px;
+    object-fit: scale-down;
+    background-color: #ebebeb;
+    align-self: center;
+}
+
+.Ofertas .price {
+    display:flex;
+    flex-direction: column;
+}
+
+.Ofertas .price>h3 {
+    text-decoration: none;
+    color: black;
+    margin: 0;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.Ofertas .price>a {
+    text-decoration: none;
+    color: #00a650;
+    margin: 0;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.Ofertas .desconto {
+    text-decoration: none;
+    color: #2f9e41;
+    margin: 0;
+    font-size: 14px;
+}
+
+.Ofertas article:hover {
+    box-shadow: 5px 5px 40px #ebebeb
+
+}
+
+/* BENEFÍCIOS */
+
+.benefícios {
+    display: flex;
+    align-self: center;
+    box-sizing: border-box;
+    height: 180px;
+    width: 1200px;
+}
+
+.benefícios .pagamento {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+    margin: 0;
+    gap:5px;
+
+}
+
+.benefícios .pagamento>p {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    width: 350px;
+    text-align: center;
+    font-size: 19px;
+}
+
+h4 {
+    margin: 0;
+    padding: 0;
+    flex-grow: 1;
+    text-align: center;
+    font-weight: bold;
+    font-size: 19px;
+}
+
+.benefícios .pagamento>i {
+    font-size: 50px;
+    color: #2f9e41;
+    margin:10px 0;
+}
+
+/* MENU FOOTER - LINKS DE NAVEGAÇÃO */
+
+footer {
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    width: 100vw;
+    justify-content: center;
+}
+
+.footer-menu {
+    display: flex;
+    align-self: center;
+    align-items: top;
+    width: 1200px;
+    padding: 20px;
+}
+
+.footer-menu ul {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 250px;    
+}
+
+.footer-menu .título-lista {
+    font-weight: bold;
+    font-size: 16px;
+    color: black;
+}
+
+.footer-menu a {
+    font-size: 14px;
+    color: #666;
+}
+
+/* MENU FOOTER - LINKS DE NAVEGAÇÃO - HOVER */
+.footer-menu li:hover {
+    text-decoration: underline;
+}
+
+
+/* MENU FOOTER - LINKS DE REDES SOCIAIS */
+
+.social-links {
+    display: flex;
+    flex-direction: row;
+    font-size: 20px;
+    gap:30px;
+    border-top: solid 2px lightgray;
+    width: 1200px; 
+    justify-content: center;
+    align-self: center;
+    padding-top: 10px;
+}
+
+footer>p {
+    color: #666;
+    font-size: 12px;
+    align-self: center;
+}
+
+.social-links a {
+    color:#00a650;
+    gap:50px;
+
+}

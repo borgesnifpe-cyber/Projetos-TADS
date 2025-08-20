@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Atividade - object-fit e object-position</title>
+    <style>
+        img {
+            width: 600px;
+            height: 300px;
+            border: 2px solid #333;
+            padding: 10px;
+        }
+
+        .controls {
+            margin: 20px;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Explorando object-fit e object-position</h1>
+
+    <div class="controls">
+        <h2>Controles</h2>
+        <label for="object-fit">object-fit:</label>
+        <select id="object-fit">
+            <option value="fill">fill</option>
+            <option value="contain">contain</option>
+            <option value="cover">cover</option>
+            <option value="none">none</option>
+            <option value="scale-down">scale-down</option>
+        </select>
+        <br>
+        <label for="object-position-x">object-position (X):</label>
+        <input type="range" id="object-position-x" min="0" max="100" value="50">
+
+        <label for="object-position-y">object-position (Y):</label>
+        <input type="range" id="object-position-y" min="0" max="100" value="50">
+    </div>
+
+    <img src="https://images.unsplash.com/photo-1698778574083-279be0ac6681?w=800&h=600&auto=format&fit=crop"
+        alt="Imagem 1 - Paisagem">
+    <img src="https://images.unsplash.com/photo-1698778574083-279be0ac6681?w=600&h=800&auto=format&fit=crop"
+        alt="Imagem 2 - Retrato">
+    <img src="https://images.unsplash.com/photo-1698778574083-279be0ac6681?w=400&h=400&auto=format&fit=crop"
+        alt="Imagem 3 - Quadrada">
+
+    <script>
+
+        document.getElementById('object-fit').addEventListener('change', function () {
+            const value = this.value;
+            document.querySelectorAll('img').forEach(img => {
+                img.style.objectFit = value;
+            });
+        });
+
+        function updateObjectPosition() {
+            const x = document.getElementById('object-position-x').value;
+            const y = document.getElementById('object-position-y').value;
+
+            document.querySelectorAll('img').forEach(img => {
+                img.style.objectPosition = `${x}% ${y}%`;
+            });
+        }
+
+        document.getElementById('object-position-x').addEventListener('input', updateObjectPosition);
+        document.getElementById('object-position-y').addEventListener('input', updateObjectPosition);        
+    </script>
+</body>
+
+</html>
