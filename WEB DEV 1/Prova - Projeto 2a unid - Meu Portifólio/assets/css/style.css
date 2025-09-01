@@ -1,17 +1,63 @@
 /* style.css - Arquivo principal */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
 html {
     margin:0;
     padding:0;
     box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    --verde1: #5a933c; /* Botões, links e destaques*/
+    --verde2: #48762e; /* Hover do botão*/
+    --verde3: #354d2a; /* Títulos, Cabeçalhos, rodapé, nome do aluno*/
+    --fundo1: #ecf0f1; /* background secções*/
+    --fundo2: #e5f3dd; /* background hero*/
+    --fundo3: #ffffff; /* background branco cards e forms*/
+    --fontecor1: #333333; /* Parágrafos, conteúdo*/
+    --fontecor2: #777777; /* Texto secundário*/
 }
 
+/* GERAL - CONTAINER GRID */
+
+.container {
+    display: grid;
+    grid-template-areas: 
+    "header header header"
+    "hero   hero   hero"
+    "footer footer footer";
+    grid-template-columns: 1fr;
+    max-width: 992px;
+    place-self: center;
+}
+
+/* LAYOUT HEADER*/
+
 header {
+    grid-area: header;
     display: flex;
-    margin: 0;
-    background-color: ;
+    flex-direction: row;
+    flex-grow: 1;
 }
 
 .logo {
-    margin-left: 30px;
-    padding: 10px;
+    flex-grow: 1;
+}
+
+.sidemenu {
+    display: flex;
+    justify-self: flex-end;
+    flex-grow: 0.3;
+    justify-content: flex-end;
+    gap: 30px;
+}
+
+/* LAYOUT HERO*/
+
+.hero {
+    grid-area: hero;
+}
+
+footer {
+    grid-area: footer;
 }
