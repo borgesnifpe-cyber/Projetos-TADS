@@ -17,7 +17,7 @@ typedef struct {
     double danoCrit;
     double regDeEnergia;
     char obser[100];
-    bool delete;
+    int delete;
 } personagem;
 
 void remover_quebra_linha(char *str);
@@ -284,7 +284,7 @@ void marcar_excluido (int id) {
             found=1;
             p.delete=1;
            
-            fseek(arquivo, -sizeof(personagem), SEEK_CUR);
+            fseek(arquivo,-sizeof(personagem), SEEK_CUR);
             fwrite(&p, sizeof(personagem),1, arquivo);
            
             printf("Registrado para exclusão\n");
