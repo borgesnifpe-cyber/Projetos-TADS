@@ -17,7 +17,7 @@ typedef struct {
     double danoCrit;
     double regDeEnergia;
     char obser[100];
-    int delete;
+    bool deleted;
 } personagem;
 
 void remover_quebra_linha(char *str);
@@ -164,7 +164,7 @@ void cadastro(void) {
     fgets(p.obser, sizeof(p.obser), stdin);
     remover_quebra_linha(p.obser);
    
-    p.delete = 0;
+    p.deleted = 0;
 
     fwrite(&p, sizeof(personagem), 1, arquivo);
     fclose(arquivo);
@@ -185,7 +185,7 @@ void listar_builds(void) {
     printf("\n===== LISTA DE BUILDS CADASTRADAS =====\n");
 
     while (fread(&p, sizeof(personagem), 1, arquivo) == 1) {
-        if (p.delete==0){
+        if (p.deleted==0){
             printf("\nBuild #%d\n", ++count);
             printf("ID: %d\n", p.id);
             printf("Personagem: %s\n", p.nomePers);
@@ -222,7 +222,7 @@ void listar_builds_min(void) {
     printf("\n===== LISTA DE BUILDS CADASTRADAS =====\n");
 
     while (fread(&p, sizeof(personagem), 1, arquivo) == 1) {
-        if (p.delete==0){
+        if (p.deleted==0){
             printf("\nBuild #%d\n", ++count);
             printf("ID: %d\n", p.id);
             printf("Personagem: %s\n", p.nomePers);
@@ -254,7 +254,7 @@ void substituir_registro () {
     int count = 0;
    
     while (fread(&p,sizeof(personagem),1,arquivo)) {
-        if (p.delete==0) {
+        if (p.deleted==0) {
             fwrite(&p,sizeof(personagem),1,arquivo_destino);
             count++;
         }
@@ -280,11 +280,11 @@ void marcar_excluido (int id) {
     int found = 0;
    
     while (fread(&p,sizeof(personagem),1,arquivo)==1) {
-        if (p.id==id && p.delete==0) {
+        if (p.id==id && p.deleted==0) {
             found=1;
-            p.delete=1;
+            p.deleted=1;
            
-            fseek(arquivo,-sizeof(personagem), SEEK_CUR);
+            fseek(arquivo, -sizeof(personagem), SEEK_CUR);
             fwrite(&p, sizeof(personagem),1, arquivo);
            
             printf("Registrado para exclusão\n");
@@ -317,7 +317,7 @@ void atualizar_builds() {
     getchar(); // consome o \n
 
     while (fread(&p, sizeof(personagem), 1, fp)) {
-        if (p.id == id_temp && !p.delete) {
+        if (p.id == id_temp && !p.deleted) {
             encontrado = 1;
             printf("\nBuild encontrada:\n");
             printf("ID: %d | Nome: %s | Build: %s\n", p.id, p.nomePers, p.nomeDaBuild);
