@@ -12,7 +12,7 @@ html {
     --verde2: #48762e; /* Hover do botão*/
     --verde3: #354d2a; /* Títulos, Cabeçalhos, rodapé, nome do aluno*/
     --fundo1: #ecf0f1; /* background secções*/
-    --fundo2: #e5f3dd; /* background hero*/
+    --fundoverdeclaro: #e5f3dd; /* background hero*/
     --fundo3: #ffffff; /* background branco cards e forms*/
     --fontecor1: #333333; /* Parágrafos, conteúdo*/
     --fontecor2: #777777; /* Texto secundário*/
@@ -21,20 +21,15 @@ html {
 /* GERAL - CONTAINER GRID */
 
 .container {
-    display: grid;
-    grid-template-areas: 
-    "header header header"
-    "hero   hero   hero"
-    "footer footer footer";
-    grid-template-columns: 1fr;
-    max-width: 992px;
-    place-self: center;
+    display: flex;
+    flex-direction: column;
+    place-content: center;
+    width: 992px;
 }
 
 /* LAYOUT HEADER*/
 
 header {
-    grid-area: header;
     display: flex;
     flex-direction: row;
     flex-grow: 1;
@@ -55,9 +50,13 @@ header {
 /* LAYOUT HERO*/
 
 .hero {
-    grid-area: hero;
+
 }
 
 footer {
-    grid-area: footer;
+
+}
+
+.bgverde {
+    background-color: var(--fundoverdeclaro);
 }
