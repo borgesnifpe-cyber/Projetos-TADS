@@ -148,19 +148,19 @@ void cadastro(void) {
     fgets(temp, sizeof(temp), stdin);
     p.danoElemental = atof(temp);
 
-    printf("Chance Crítica: ");
+    printf("Chance Critica: ");
     fgets(temp, sizeof(temp), stdin);
     p.chanceCrit = atof(temp);
 
-    printf("Dano Crítico: ");
+    printf("Dano Critico: ");
     fgets(temp, sizeof(temp), stdin);
     p.danoCrit = atof(temp);
 
-    printf("Regeneração de Energia: ");
+    printf("Regeneracao de Energia: ");
     fgets(temp, sizeof(temp), stdin);
     p.regDeEnergia = atof(temp);
 
-    printf("Observações: ");
+    printf("Obs: ");
     fgets(p.obser, sizeof(p.obser), stdin);
     remover_quebra_linha(p.obser);
    
@@ -194,10 +194,10 @@ void listar_builds(void) {
             printf("Nome da Build: %s\n", p.nomeDaBuild);
             printf("Ataque: %d | HP: %d | Defesa: %d\n", p.ataque, p.hp, p.defesa);
             printf("Dano Elemental do Echo: %.2f%%\n", p.danoElemental);
-            printf("Chance Crítica: %.2f%%\n", p.chanceCrit);
-            printf("Dano Crítico: %.2f\n", p.danoCrit);
-            printf("Regeneração de Energia: %.2f\n", p.regDeEnergia);
-            printf("Observações: %s\n", p.obser);
+            printf("Chance Critica: %.2f%%\n", p.chanceCrit);
+            printf("Dano Critico: %.2f\n", p.danoCrit);
+            printf("Regeneracao de Energia: %.2f\n", p.regDeEnergia);
+            printf("Obs: %s\n", p.obser);
             printf("---------------------------------------\n");
         }
     }
@@ -391,13 +391,16 @@ void menu_excluir () {
                 printf("\n");
                 printf ("Selecione uma build para excluir pelo ID:");
                 scanf("%d",&id_temp);
+                getchar();
                 printf("\nTem certeza que deseja excluir essa build? (Digite 1 para SIM/ 0 para NAO):");
                 scanf("%d",&confirm);
+                getchar();
                     if (confirm==1){
                         marcar_excluido(id_temp);
                         substituir_registro();
                         getchar();
                     } else {
-                        printf ("\n\nExclusão cancelada!");
+                        printf ("\n\nExclusão cancelada!\n\n");
+                        getchar();
                     }
 }

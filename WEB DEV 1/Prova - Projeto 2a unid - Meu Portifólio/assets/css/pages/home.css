@@ -1,0 +1,32 @@
+.hero {
+    display: flex;
+    flex-direction: column;
+    place-self: center;
+}
+
+.bgtophero {
+    width: 100vw;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+}
+
+.tophero {
+    display: flex;
+
+}
+
+.tophero > img {
+    height: 300px;
+    width: 240px;
+    margin: 30px;
+}
+
+.contenttophero {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+
