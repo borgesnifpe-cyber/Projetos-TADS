@@ -1,0 +1,41 @@
+footer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-self: flex-end;
+
+}
+
+footer * {
+    color: var(--fontecor2);
+    font-size: var(--base);
+}
+
+footer h3 {
+    color: var(--fundo1);
+    font-weight: bold;
+}
+
+.bgfooter {
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+    align-items: center;
+}
+
+.footertop {
+    display: flex;
+    flex-direction: row;
+    gap:var(--gap);
+    width: 60vw;
+}
+
+.footercard {
+    width: 33%;
+}
+
+footer .copy {
+    width: 60vw;
+    border-top: solid var(--fontecor2) 2px;
+    text-align: center;
+}
