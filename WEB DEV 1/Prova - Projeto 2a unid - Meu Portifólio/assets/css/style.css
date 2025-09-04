@@ -1,13 +1,14 @@
 /* style.css - Arquivo principal */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 
-html {
+html *{
     margin:0;
     padding:0;
     box-sizing: border-box;
     font-family: "Poppins", sans-serif;
     font-weight: 100;
     font-style: normal;
+    text-decoration: none;
     --verde1: #5a933c; /* Botões, links e destaques*/
     --verde2: #48762e; /* Hover do botão*/
     --verde3: #354d2a; /* Títulos, Cabeçalhos, rodapé, nome do aluno*/
@@ -16,47 +17,42 @@ html {
     --fundo3: #ffffff; /* background branco cards e forms*/
     --fontecor1: #333333; /* Parágrafos, conteúdo*/
     --fontecor2: #777777; /* Texto secundário*/
+    --base:1rem;
+    --section:3rem;
+    --gap:1.5rem;
 }
 
-/* GERAL - CONTAINER GRID */
+/* GERAL - CONTAINER flex */
 
 .container {
     display: flex;
     flex-direction: column;
-    place-content: center;
-    width: 992px;
+    align-items: center;
+    width: 100vw;
 }
-
-/* LAYOUT HEADER*/
-
-header {
-    display: flex;
-    flex-direction: row;
-    flex-grow: 1;
-}
-
-.logo {
-    flex-grow: 1;
-}
-
-.sidemenu {
-    display: flex;
-    justify-self: flex-end;
-    flex-grow: 0.3;
-    justify-content: flex-end;
-    gap: 30px;
-}
-
-/* LAYOUT HERO*/
 
 .hero {
-
-}
-
-footer {
-
+    margin-top: 60px;
+    flex-grow: 1;
 }
 
 .bgverde {
     background-color: var(--fundoverdeclaro);
 }
+
+.bgoffwhite {
+    background-color: var(--fundo1);
+}
+
+.bgbranco {
+    background-color: var(--fundo3);
+}
+
+.bgverdeescuro {
+    background-color: var(--verde3);
+}
+
+.sectionmargin {
+    margin: var(--section) 0 var(--section) 0;
+}
+
