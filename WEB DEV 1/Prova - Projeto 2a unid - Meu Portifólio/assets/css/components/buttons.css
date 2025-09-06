@@ -1,0 +1,16 @@
+.tophero a {
+    display: flex;
+    padding: 1rem;
+    border: solid 2px var(--verde2);
+    width: 20%;
+    border-radius: 5px;
+}
+
+header a{
+    color: var(--verde3);
+    font-weight: 600;
+}
+
+.logo a{
+    font-weight: bold;
+}
