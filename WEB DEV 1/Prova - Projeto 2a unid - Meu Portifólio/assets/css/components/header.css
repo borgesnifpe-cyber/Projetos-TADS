@@ -30,16 +30,7 @@ header {
     font-size: 1.5rem;
 }
 
-header a{
-    color: var(--verde3);
-    font-weight: 600;
-}
-
 .logo span{
     color: var(--verde1);
-    font-weight: bold;
-}
-
-.logo a{
     font-weight: bold;
 }
