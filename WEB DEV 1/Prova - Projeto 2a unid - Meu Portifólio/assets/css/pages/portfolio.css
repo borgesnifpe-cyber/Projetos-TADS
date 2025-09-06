@@ -1,0 +1,44 @@
+.hero {
+    display: grid;
+    grid-template-areas: 
+        "header header  header"
+        "proj1   proj2   proj3"
+        "proj4   proj5   proj6"
+        "proj7   proj8   proj9";
+    grid-template-columns: repeat(3,1fr);
+    gap: 1rem;
+}
+
+.tophero {
+    grid-area: header;
+    display: flex;
+    flex-direction: column;
+}
+
+.hero:nth-child(2) {
+    grid-area: proj1;
+}
+
+.hero:nth-child(3) {
+    grid-area: proj2;
+}
+
+.hero:nth-child(4) {
+    grid-area: proj3;
+}
+
+.hero:nth-child(5) {
+    grid-area: proj4;
+}
+
+.hero:nth-child(6) {
+    grid-area: proj5;
+}
+
+.hero:nth-child(7) {
+    grid-area: proj6;
+}
+
+.hero:nth-child(8) {
+    grid-area: proj7;
+}

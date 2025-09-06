@@ -1,0 +1,12 @@
+article {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    border-radius: 10px;
+    background-color: ;
+    flex-grow: 1;
+}
+
+article img {
+
+}
