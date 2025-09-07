@@ -1,0 +1,64 @@
+.hero {
+    display: grid;
+    grid-template-areas: 
+        "topo topo"
+        "form mapa"
+    ;
+    grid-template-columns: 1fr 1.3fr;
+    grid-template-rows: auto 5fr;
+}
+
+.bghero {
+    display: flex;
+    padding: 1rem;
+    width: 100vw;
+    justify-content: center;
+    align-items: center;
+}
+
+.hero .page-title {
+    font-weight: bold;
+    color: var(--verde3);
+    margin-top: 1rem;
+}
+
+.side2 {
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+    gap: var(--gap);
+}
+
+.side2 h3 {
+    font-weight: bold;
+    color: var(--verde3);
+}
+
+.side2 p {
+    font-weight: 200;
+    color: var(--verde3);
+}
+
+.hero .mapa {
+    max-height: 200px;
+    margin-bottom: 30px;
+}
+
+.hero .mapa iframe {
+    max-height: 250px;
+    border-radius: 10px;
+}
+
+/* CLASSES DE POSICIONAMENTO GRID */
+
+.hero h1 {
+    grid-area: topo;
+}
+
+.hero form {
+    grid-area: form;
+}
+
+.hero .side2 {
+    grid-area: mapa;
+}

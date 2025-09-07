@@ -33,7 +33,7 @@ html *{
 
 .hero {
     margin-top: 60px;
-    flex-grow: 1;
+    flex-grow: 0;
 }
 
 .bgverde {

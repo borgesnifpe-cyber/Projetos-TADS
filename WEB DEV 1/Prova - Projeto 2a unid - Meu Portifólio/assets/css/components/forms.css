@@ -1,0 +1,35 @@
+.hero form {
+    display: flex;
+    flex-direction: column;
+    padding:2rem;
+    border-radius: 5px;
+    background-color: white;
+    margin: 0 2rem 1rem 0;
+    box-shadow: 0 0 20px 5px rgba(15, 15, 15, 0.253);
+}
+
+.hero form input {
+    height: 2.5rem;
+    margin-bottom: 1rem;
+    padding: 0 10px 0 10px;
+    border: solid var(--fontecor2) 1px;
+}
+
+.hero form select {
+    height: 2.5rem;
+    margin-bottom: 1rem;
+    font-weight: 200;
+    padding: 0 10px 0 10px;
+    border: solid var(--fontecor2) 1px;
+    background-color: var(--fundoverdeclaro);
+}
+
+.hero form label {
+    font-weight: 200;
+}
+
+#mensagem {
+    height: 10rem;
+    margin-bottom: 1rem;
+    border: solid var(--fontecor2) 1px;
+}
