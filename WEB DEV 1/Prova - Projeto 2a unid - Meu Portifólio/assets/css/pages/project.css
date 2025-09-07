@@ -1,0 +1,124 @@
+.bghero {
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.hero {
+    width: 1200px;
+}
+
+/* CARD PRINCIPAL */
+
+.hero .display {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid white;
+    border-radius: 10px;
+    margin: 2rem 0 2rem 0;
+    background-color: white;
+    box-shadow: 0 0 10px 2px rgba(0, 0, 0, 0.144);
+}
+
+.hero .display img { 
+    display: flex;
+    flex-grow: 1;
+    margin: 0;
+    height: 530px;
+    object-fit: cover;
+}
+
+.display .displayheader {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 1.5rem;
+}
+
+.display .displayheader h1 {
+    font-weight: bold;
+    color: var(--verde3);
+}
+
+.display .displayheader .marcadores {
+    display: flex;
+    gap: var(--gap);
+    margin-top: 1rem;
+}
+
+span {
+    color: var(--verde2);
+    font-weight: 300;
+    color: var(--fontecor1);
+}
+
+.categoria {
+    color: var(--verde1);
+    font-weight: bold;
+}
+
+.hero article {
+    display: flex;
+}
+
+.hero article .sobre {
+    flex-direction: column;
+    gap: var(--gap);
+    padding: 2rem;
+    justify-content: space-between;
+}
+
+.hero article .sobre h2 {
+    color: var(--verde3);
+    font-weight: bold;
+}
+
+.hero article .sobre p {
+    color: var(--fontecor2);
+    font-weight: 500;
+}
+
+.hero article .caracteristicas {
+    justify-content: space-between;
+    gap: var(--gap);
+    padding: 0 2rem 2rem 2rem ;
+}
+
+.hero article .caracteristicas .card {
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+}
+
+.hero article .caracteristicas .card h3 {
+    color: var(--verde3);
+    font-weight: bold;
+}
+
+.hero article .caracteristicas .card p {
+    color: var(--fontecor2);
+    font-weight: 500;
+}
+
+.hero article .galeria {
+    display: flex;
+    flex-direction: column;
+    padding: 0 2rem 2rem 2rem ;
+    gap: var(--gap);
+}
+
+.hero article .galeria h2 {
+    color: var(--verde3);
+    font-weight: bold;
+}
+
+.hero article .galeria .fotos {
+    display: flex;
+    gap: var(--gap);
+}
+
+.hero article .galeria .fotos img {
+    height: 200px;
+    width: 300px;
+}
