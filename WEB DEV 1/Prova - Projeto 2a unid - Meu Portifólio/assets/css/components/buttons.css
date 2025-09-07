@@ -1,3 +1,5 @@
+/* BOTÕES DA HOMEPAGE (INDEX) */
+
 .tophero a {
     display: flex;
     padding: 1rem;
@@ -13,4 +15,34 @@ header a{
 
 .logo a{
     font-weight: bold;
+}
+
+/* BOTÕES DA PÁGINA DE PORTIFÓLIO */
+
+.card a {
+    display: flex;
+    padding: 1rem;
+    border: solid 2px var(--verde2);
+    width: 50%;
+    border-radius: 5px;
+    justify-content: center;
+    align-self: center;
+    display: none;
+    position:absolute;
+}
+
+.card:hover {
+    display: block;
+}
+
+/* BOTÕES DA PÁGINA CONTATO */
+
+.hero form .button {
+    display: flex;
+    border: solid 2px var(--verde2);
+    border-radius: 5px;
+    justify-content: center;
+    background-color: var(--verde2);
+    color: white;
+    font-weight: 300;
 }
