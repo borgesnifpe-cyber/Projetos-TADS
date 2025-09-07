@@ -46,3 +46,24 @@ header a{
     color: white;
     font-weight: 300;
 }
+
+/* BOTÕES DA PÁGINA PROJETO */
+
+/* Botão de retorno */
+
+.hero:first-child {
+    padding: 2rem 0 2rem 0;
+}
+
+.hero:first-child a{
+    display: flex;
+    color: var(--verde3);
+    font-weight: 300;
+    gap: 10px;
+    align-items: center;
+}
+
+.hero:first-child i{
+    color: var(--verde3);
+    align-items: center;
+}
