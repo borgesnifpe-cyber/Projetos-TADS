@@ -11,18 +11,31 @@
 header {
     display: flex;
     flex-direction: row;
-    width: 60vw;
-    height: 60px;
+    max-width: 1200px;
+    padding: 1rem 2rem;
     align-items: center;
+    flex-grow: 1;
+    transition: var(--duration);
 }
 
 .sidemenu {
-    display: flex;
-    justify-self: flex-end;
     flex-grow: 0.2;
+    display: flex;
     justify-content: flex-end;
-    gap: 30px;
+    align-items: center;
 }
+
+.sidemenu ul{
+    display: flex;
+    gap: 30px;
+    list-style-type: none;
+}
+
+.sidemenu ul li {
+    padding: 0 2px 5px 0 ;
+}
+
+
 
 .logo {
     display: flex;
@@ -33,4 +46,22 @@ header {
 .logo span{
     color: var(--verde1);
     font-weight: bold;
+}
+
+/* RESPONSIVIDADE */
+
+@media screen and (max-width: 992px) {
+    header{
+        padding: 1rem 2rem;
+        width: 100%;
+        position: absolute;
+    }
+
+}
+
+@media screen and (max-width: 576px) {
+    .sidemenu ul{
+        gap: 10px;
+    }
+
 }

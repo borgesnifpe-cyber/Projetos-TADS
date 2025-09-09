@@ -18,11 +18,13 @@
             <header>
                 <!-- Header -->
                 <div class="logo"><a href="index.html">Meu<span>Portfólio</span></a></div>
-                <div class="sidemenu">
-                    <a href="index.html">Início</a>
-                    <a href="portfolio.html">Portfólio</a>
-                    <a href="contato.html">Contato</a>
-                </div>
+                <nav class="sidemenu">
+                    <ul>
+                        <li class="primeiro"><a href="index.html">Início</a></li>
+                        <li class="segundo"><a href="portfolio.html">Portfólio</a></li>
+                        <li class="terceiro"><a href="contato.html">Contato</a></li>
+                    </ul>
+                </nav>
             </header>
         </section>
         <div class="bghero bgverde">
@@ -32,7 +34,7 @@
                     <h1>Meus Projetos</h1>
             
                     <div class="filtros">
-                        <button>Todos</button>
+                        <button id="selected">Todos</button>
                         <button>Web</button>
                         <button>Design</button>
                         <button>Mobile</button>
@@ -40,8 +42,10 @@
                 </section>
                 <article class="card">
                     <!-- Projeto 1 -->
-                    <img src="assets/images/projects/project1.png" alt="Website Corporativo">
-                    <a href="projeto.html">Ver Detalhes</a>
+                    <div class="img">
+                        <img src="assets/images/projects/project1.png" alt="Website Corporativo">
+                        <a href="projeto.html">Ver Detalhes</a>
+                    </div>
                     <div class="contentcard">
                         <h3>Website Corporativo</h3>
                         <p>HTML, CSS, JavaScript</p>
@@ -50,8 +54,10 @@
                 </article>
                 <article class="card">
                     <!-- Projeto 2 -->
-                    <img src="assets/images/projects/project2.png" alt="App Mobile">
-                    <a href="projeto.html">Ver Detalhes</a>
+                    <div class="img">
+                        <img src="assets/images/projects/project2.png" alt="App Mobile">
+                        <a href="projeto.html">Ver Detalhes</a>
+                    </div>
                     <div class="contentcard">
                         <h3>App Mobile</h3>
                         <p>UI/UX Design</p>
@@ -60,8 +66,10 @@
                 </article>
                 <article class="card">
                     <!-- Projeto 3 -->
-                    <img src="assets/images/projects/project3.png" alt="E-commerce">
-                    <a href="projeto.html">Ver Detalhes</a>
+                    <div class="img">
+                        <img src="assets/images/projects/project3.png" alt="E-commerce">
+                        <a href="projeto.html">Ver Detalhes</a>
+                    </div>
                     <div class="contentcard">
                         <h3>Loja Online</h3>
                         <p>React, Node.js</p>
@@ -70,8 +78,10 @@
                 </article>
                 <article class="card">
                     <!-- Projeto 4 -->
-                    <img src="assets/images/projects/project4.png" alt="Landing Page">
-                    <a href="projeto.html">Ver Detalhes</a>
+                    <div class="img">
+                        <img src="assets/images/projects/project4.png" alt="Landing Page">
+                        <a href="projeto.html">Ver Detalhes</a>
+                    </div>
                     <div class="contentcard">
                         <h3>Landing Page</h3>
                         <p>Copywriting, SEO</p>
@@ -80,8 +90,10 @@
                 </article>
                 <article class="card">
                     <!-- Projeto 5 -->
-                    <img src="assets/images/projects/project5.png" alt="Identidade Visual">
-                    <a href="projeto.html">Ver Detalhes</a>
+                    <div class="img">
+                        <img src="assets/images/projects/project5.png" alt="Identidade Visual">
+                        <a href="projeto.html">Ver Detalhes</a>
+                    </div>
                     <div class="contentcard">
                         <h3>Identidade Visual</h3>
                         <p>Branding, Logo</p>
@@ -90,8 +102,10 @@
                 </article>
                 <article class="card">
                     <!-- Projeto 6 -->
-                    <img src="assets/images/projects/project6.png" alt="Dashboard">
-                    <a href="projeto.html">Ver Detalhes</a>
+                    <div class="img">
+                        <img src="assets/images/projects/project6.png" alt="Dashboard">
+                        <a href="projeto.html">Ver Detalhes</a>
+                    </div>
                     <div class="contentcard">
                         <h3>Dashboard Analytics</h3>
                         <p>Vue.js, API REST</p>
@@ -100,8 +114,10 @@
                 </article>
                 <article class="card">
                     <!-- Projeto 7 -->
-                    <img src="assets/images/projects/project7.png" alt="Blog Pessoal">
-                    <a href="projeto.html">Ver Detalhes</a>
+                    <div class="img">
+                        <img src="assets/images/projects/project7.png" alt="Blog Pessoal">
+                        <a href="projeto.html">Ver Detalhes</a>
+                    </div>
                     <div class="contentcard">
                         <h3>Blog Pessoal</h3>
                         <p>WordPress, PHP</p>
@@ -110,8 +126,10 @@
                 </article>
                 <article class="card">
                     <!-- Projeto 8 -->
-                    <img src="assets/images/projects/project8.png" alt="App de Task">
-                    <a href="projeto.html">Ver Detalhes</a>
+                    <div class="img">
+                        <img src="assets/images/projects/project8.png" alt="App de Task">
+                        <a href="projeto.html">Ver Detalhes</a>
+                    </div>
                     <div class="contentcard">
                         <h3>Task Manager</h3>
                         <p>React Native</p>

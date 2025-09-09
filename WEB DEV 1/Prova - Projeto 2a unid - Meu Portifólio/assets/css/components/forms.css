@@ -4,8 +4,9 @@
     padding:2rem;
     border-radius: 5px;
     background-color: white;
-    margin: 0 2rem 1rem 0;
+    margin: 0 2rem 0 0;
     box-shadow: 0 0 20px 5px rgba(15, 15, 15, 0.253);
+    transition: var(--duration);
 }
 
 .hero form input {
@@ -13,23 +14,40 @@
     margin-bottom: 1rem;
     padding: 0 10px 0 10px;
     border: solid var(--fontecor2) 1px;
+    color: var(--fontecor2);
+    font-weight: var(--bolding);
 }
 
 .hero form select {
     height: 2.5rem;
     margin-bottom: 1rem;
-    font-weight: 200;
+    font-weight: var(--stdfonte);
     padding: 0 10px 0 10px;
     border: solid var(--fontecor2) 1px;
     background-color: var(--fundoverdeclaro);
 }
 
+.hero form select option {
+    color: var(--verde3);
+    font-weight: var(--bolding);
+}
+
 .hero form label {
-    font-weight: 200;
+    font-weight: var(--stdfonte);
 }
 
 #mensagem {
     height: 10rem;
     margin-bottom: 1rem;
     border: solid var(--fontecor2) 1px;
+    color: var(--verde3);
+    font-weight: var(--bolding);
+}
+
+/* RESPONSIVIDADE */
+
+@media screen and (max-width:992px) {
+    .hero form {
+        margin: 0;
+    }
 }

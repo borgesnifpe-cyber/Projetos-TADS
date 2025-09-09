@@ -3,7 +3,6 @@ footer{
     flex-direction: column;
     align-items: center;
     justify-self: flex-end;
-
 }
 
 footer * {
@@ -12,7 +11,7 @@ footer * {
 }
 
 footer h3 {
-    color: var(--fundo1);
+    color: white;
     font-weight: bold;
 }
 
@@ -21,6 +20,7 @@ footer h3 {
     flex-direction: column;
     width: 100vw;
     align-items: center;
+    padding: 1rem 0 0 0;
 }
 
 .footertop {
@@ -28,6 +28,11 @@ footer h3 {
     flex-direction: row;
     gap:var(--gap);
     width: 60vw;
+}
+
+.footer p {
+    color: var(--fontecor2);
+    font-weight: var(--stdfonte);
 }
 
 .footercard {
@@ -38,6 +43,7 @@ footer h3 {
 }
 
 footer h3 {
+    font-size: 1rem;
     padding-bottom: 1rem;
     margin-bottom: 1rem;
     border-bottom: solid 2px var(--verde1);
@@ -59,8 +65,8 @@ footer h3 {
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 40px;
-    height: 40px;
+    min-width: 40px;
+    min-height: 40px;
     background-color: rgba(72, 118, 46, 0.781);
     border-radius: 20px;
 }
@@ -75,4 +81,53 @@ footer .copy {
     text-align: center;
     margin: 1rem 0 1rem 0;
     padding: 1rem 0 0 0;
+}
+
+@media screen and (max-width: 992px) {
+    .footertop {
+        display: grid;
+        grid-template-areas: 
+        "a1 a2 a3"
+        ;
+        grid-template-columns: 1fr 1fr 1fr;
+        align-self: center;
+        justify-self: center;
+        gap: var(--gap);
+        width: 100%;
+        padding: 1rem;
+    }
+
+    .footertop .footercard {
+        display: flex;
+        min-width: 100%;
+    }
+
+    .footertop .footercard1 {
+        display: flex;
+        min-width: 100%;
+    }
+
+}
+
+@media screen and (max-width: 576px) {
+    .footertop {
+        display: flex;
+        flex-direction: column;
+        align-self: center;
+        justify-self: center;
+        gap: var(--gap);
+        width: 100%;
+        padding: 1rem;
+    }
+
+    .footertop .footercard {
+        display: flex;
+        min-width: 100%;
+    }
+
+    .footertop .footercard1 {
+        display: flex;
+        min-width: 100%;
+    }
+
 }

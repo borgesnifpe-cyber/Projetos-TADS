@@ -9,17 +9,28 @@ html *{
     font-weight: 100;
     font-style: normal;
     text-decoration: none;
+    /* CORES */
     --verde1: #5a933c; /* Botões, links e destaques*/
     --verde2: #48762e; /* Hover do botão*/
     --verde3: #354d2a; /* Títulos, Cabeçalhos, rodapé, nome do aluno*/
+    /* CORES DE FUNDOS (APESAR DE EU NÃO RESPEITAR MUITO) */ 
     --fundo1: #ecf0f1; /* background secções*/
     --fundoverdeclaro: #e5f3dd; /* background hero*/
     --fundo3: #ffffff; /* background branco cards e forms*/
+    /* CORES DE FONTE (IDEM) */
     --fontecor1: #333333; /* Parágrafos, conteúdo*/
     --fontecor2: #777777; /* Texto secundário*/
+    /* MARGINS, PADDINGS E GAPS */
     --base:1rem;
     --section:3rem;
     --gap:1.5rem;
+    /* FONT-WEIGHT */
+    --stdfonte:300;
+    --bolding:500;
+    --notsobold:600;
+    --bolder:800;
+    /* TRANSITION */
+    --duration:0.5s ease-in-out;
 }
 
 /* GERAL - CONTAINER flex */
@@ -28,12 +39,17 @@ html *{
     display: flex;
     flex-direction: column;
     align-items: center;
-    width: 100vw;
+    max-width: 100vw;
+    width: 100%;
 }
 
 .hero {
-    margin-top: 60px;
-    flex-grow: 0;
+    margin-top: 3.5rem;
+    flex-grow: 1;
+    align-self: center;
+    justify-self: center;
+    max-width: 100vw;
+    width: 100%;
 }
 
 .bgverde {

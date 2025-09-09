@@ -4,15 +4,62 @@ article {
     border-radius: 10px;
     background-color: white ;
     flex-grow: 1;
+    box-shadow: 0 0 10px 2px rgba(0, 0, 0, 0.144);
 }
 
-article img {
-    max-width: 389px;
-    max-height: 200px;
+article .img img {
+    display: flex;
+    flex-grow: 1;
+    width: 100%;
+    max-width: 100%;
+    height: 200px;
     object-fit: cover;
     border-radius: 10px 10px 0 0;
+    position:none;
+    background-color: var(--verde3);
+}
+
+article .img {
+   background-color: var(--verde3);
 }
 
 .contentcard {
+    display: flex;
+    flex-direction: column;
     padding: 1rem;
+    gap: 0.2rem;
+}
+
+.contentcard h3 {
+    color: var(--verde3);
+    font-weight: var(--notsobold);
+}
+
+.contentcard p {
+    color: var(--fontecor1);
+    font-weight: var(--stdfonte);
+}
+
+.contentcard span {
+    color: var(--verde1);
+    font-weight: var(--stdfonte);
+    background-color: var(--fundoverdeclaro);
+    padding: 2px 5px 2px 5px;
+    width: fit-content;
+    border-radius: 5px;
+}
+
+/* RESPONSIVIDADE */
+
+@media screen and (max-width:992px) {
+    article {
+        max-width: 100vw;
+        width: 100%;
+    }
+
+    article .img img {
+        object-fit: cover;
+        min-width: 100%;
+    }
+
 }
