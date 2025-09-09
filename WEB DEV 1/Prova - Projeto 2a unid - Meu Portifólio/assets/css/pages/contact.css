@@ -1,4 +1,8 @@
-.hero {
+header .sidemenu ul .terceiro {
+    border-bottom: solid var(--verde1) 4px;
+}
+
+.herocontato {
     display: grid;
     grid-template-areas: 
         "topo topo"
@@ -6,6 +10,7 @@
     ;
     grid-template-columns: 1fr 1.3fr;
     grid-template-rows: auto 5fr;
+    max-width: 1200px;
 }
 
 .bghero {
@@ -16,10 +21,10 @@
     align-items: center;
 }
 
-.hero .page-title {
+.herocontato .page-title {
     font-weight: bold;
     color: var(--verde3);
-    margin-top: 1rem;
+    margin: 1rem 0 0.5rem 0;
 }
 
 .side2 {
@@ -35,30 +40,78 @@
 }
 
 .side2 p {
-    font-weight: 200;
+    font-weight: var(--stdfonte);
     color: var(--verde3);
 }
 
-.hero .mapa {
-    max-height: 200px;
+.herocontato .mapa {
+    max-height: 350px;
     margin-bottom: 30px;
+    position: relative;
 }
 
-.hero .mapa iframe {
-    max-height: 250px;
-    border-radius: 10px;
+.herocontato .mapa iframe {
+  min-width:600px;
+  min-height:250px;
+  transition: 0.1s ease-in-out;
 }
 
 /* CLASSES DE POSICIONAMENTO GRID */
 
-.hero h1 {
+.herocontato h1 {
     grid-area: topo;
 }
 
-.hero form {
+.herocontato form {
     grid-area: form;
 }
 
-.hero .side2 {
+.herocontato .side2 {
     grid-area: mapa;
+}
+
+@media screen and (max-width:992px) {
+
+    .herocontato {
+    display: grid;
+    grid-template-areas: 
+        "topo"
+        "mapa"
+        "form"
+    ;
+    grid-template-columns: 1fr;
+    grid-template-rows: auto;
+    }
+
+    .herocontato h1 {
+        padding-left: 0.7rem;
+    }
+
+    .herocontato .side2 {
+        margin-bottom: 1rem;
+    }
+}
+
+@media screen and (max-width:678px) {
+    .herocontato .mapa iframe {
+        min-width: 500px;
+    }
+}
+
+@media screen and (max-width:576px) {
+    .herocontato .mapa iframe {
+        min-width: 400px;
+    }
+}
+
+@media screen and (max-width:460px) {
+    .herocontato .mapa iframe {
+        min-width: 300px;
+    }
+}
+
+@media screen and (max-width:370px) {
+    .herocontato .mapa iframe {
+        min-width: 250px;
+    }
 }

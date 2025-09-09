@@ -1,41 +1,161 @@
-/* BOTÕES DA HOMEPAGE (INDEX) */
-
-.tophero a {
-    display: flex;
-    padding: 1rem;
-    border: solid 2px var(--verde2);
-    width: 20%;
-    border-radius: 5px;
-}
+/* BOTÕES DO HEADER */
 
 header a{
     color: var(--verde3);
-    font-weight: 600;
+    font-weight: var(--notsobold);
 }
 
 .logo a{
     font-weight: bold;
 }
 
-/* BOTÕES DA PÁGINA DE PORTIFÓLIO */
-
-.card a {
-    display: flex;
-    padding: 1rem;
-    border: solid 2px var(--verde2);
-    width: 50%;
-    border-radius: 5px;
-    justify-content: center;
-    align-self: center;
-    display: none;
-    position:absolute;
+header .sidemenu li {
+    position: relative;
 }
 
-.card:hover {
+header .sidemenu li::after {
+    content: "";
+    width: 0%;
+    height: 3px;
+    background-color: var(--verde1);
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    transition: var(--duration);
+}
+
+header .sidemenu li:hover::after {
+    width: 100%;
+}
+
+/* BOTÕES DO FOOTER */
+
+/* links rápidos */
+.footertop a {
+    color: var(--fontecor2);
+    font-weight: 300;
+    transition: var(--duration);
+}
+
+.footertop .footercard a:hover {
+    padding-left: 10px;
+    font-weight: bold;
+    color: var(--verde1);
+}
+
+/* redes sociais */
+.footercard1 a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    background-color: rgba(72, 118, 46, 0.781);
+    border-radius: 20px;
+}
+
+.footertop .footercard1 a:hover {
+    background-color: #5a933cd0;
+    translate: 0 -5px;
+}
+
+/* BOTÕES DA HOMEPAGE (INDEX) */
+
+.tophero a {
+    display: flex;
+    padding: 1rem;
+    border: solid 2px var(--verde3);
+    width: 200px;
+    border-radius: 5px;
+    color: var(--verde3);
+    font-weight: 500;
+    justify-content: center;
+    transition: 0.5s ease-in-out;
+}
+
+.tophero a:hover {
+    background-color: var(--verde3);
+    color: white;
+}
+
+/* BOTÕES DA PÁGINA DE PORTIFÓLIO */
+
+/* BOTÕES DO FILTRO */
+
+.tophero .filtros button:not(:first-child) {
+    padding: 5px 1rem 5px 1rem;
+    border-radius: 20px;
+    border: var(--fontecor1) solid 1px;
+    background-color: var(--fundoverdeclar);
+    font-weight: var(--stdfonte);
+}
+
+#selected {
+    padding: 5px 1rem 5px 1rem;
+    border-radius: 20px;
+    border: var(--fontecor1) solid 1px;
+    font-weight: var(--stdfonte);
+    background-color: var(--verde1);
+    color: white;
+}
+
+.tophero .filtros button:hover {
+    cursor: pointer;
+    background-color: var(--verde2);
+    color: white;
+    transition: var(--duration);
+}
+
+.tophero .filtros #selected:hover {
+    cursor: pointer;
+    background-color: var(--verde2);
+    color: white;
+    transition: var(--duration);
+}
+
+/* CARDS */
+
+article .img a {
+    place-content: center;
+    text-align: center;
+    border: solid 2px var(--verde2);
+    height: 50px;
+    width: 150px;
+    border-radius: 5px;
+    justify-content: center;
+    position: absolute;
+    transform: translate(0,4rem);
+    color: var(--verde2);
+    font-weight: var(--notsobold);
+    background-color: transparent;
+    display: none;
+}
+
+article .card {
+    transition: var(--duration);
+}
+
+article:hover .img a {
     display: block;
+    cursor: pointer;
+    transition: var(--duration);
+}
+
+article:hover .img img{
+    opacity: 0.4;
+    transition: var(--duration);
+    /* Não consegui fazer o zoom-in da imagem T_T desgurpa*/
+}
+
+article .img a:hover {
+    background-color: #48762e;
+    color: white;
+    transition: var(--duration);
 }
 
 /* BOTÕES DA PÁGINA CONTATO */
+
+/* Botão de envio do forms */
 
 .hero form .button {
     display: flex;
@@ -44,26 +164,75 @@ header a{
     justify-content: center;
     background-color: var(--verde2);
     color: white;
-    font-weight: 300;
+    font-weight: var(--stdfonte);
+}
+
+.hero form .button:hover {
+    cursor: pointer;
+    background-color: var(--verde3);
+    color: white;
+    transition: var(--duration);
+    translate: 0 -3px;
 }
 
 /* BOTÕES DA PÁGINA PROJETO */
 
 /* Botão de retorno */
 
-.hero:first-child {
+.heroalt:first-child {
     padding: 2rem 0 2rem 0;
 }
 
-.hero:first-child a{
+.heroalt:first-child a{
     display: flex;
     color: var(--verde3);
-    font-weight: 300;
+    font-weight: var(--stdfonte);
     gap: 10px;
+    align-items: center;
+    transition: var(--duration);
+}
+
+.heroalt:first-child p{
+    display: flex;
+    color: var(--verde3);
+    font-weight: var(--stdfonte);
+    transition: var(--duration);
+}
+
+.heroalt:first-child i{
+    color: var(--verde3);
     align-items: center;
 }
 
-.hero:first-child i{
-    color: var(--verde3);
-    align-items: center;
+.heroalt:first-child a:hover{
+    cursor: pointer;
+    gap: 10px;
+}
+
+.heroalt:first-child a:hover p{
+    padding-left: 10px;
+    cursor: pointer;
+    gap: 10px;
+}
+
+/* RESPONSIVIDADE - BOTÕES */
+
+/* BOTÃO PORTFOLIO*/
+@media screen and (max-width:1200px) {
+    .heroalt:first-child {
+    padding: 2rem 2rem;
+    }
+}
+
+@media screen and (max-width:992px){
+    .heroalt:first-child {
+    padding: 2rem 2rem;
+    }
+    article .img a {
+        background-color: #48762e;
+        color: white;
+    }
+    article .img img {
+        opacity: 0.7;
+    }
 }

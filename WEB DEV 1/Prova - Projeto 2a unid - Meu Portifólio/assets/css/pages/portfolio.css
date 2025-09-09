@@ -1,3 +1,7 @@
+header .sidemenu ul .segundo {
+    border-bottom: solid var(--verde1) 4px;
+}
+
 .hero {
     max-width: 1200px;
     display: grid;
@@ -18,7 +22,7 @@
 }
 
 .tophero {
-    grid-area: header;
+    grid-area: header; /* nth-child não tava funcionando, precisei apelar pra gambiarra, mas funciona */
     display: flex;
     flex-direction: column;
     margin: var(--section) 0 var(--section) 0;
@@ -26,7 +30,7 @@
 
 .tophero h1 {
     text-align: center;
-    font-weight: 500;
+    font-weight: var(--bolding);
     color: var(--verde3);
     font-size: 2rem;
 }
@@ -38,21 +42,16 @@
     margin-top: 1rem;
 }
 
-.tophero .filtros button {
-    padding: 5px 1rem 5px 1rem;
-    border-radius: 20px;
-    border: var(--fontecor1) solid 1px;
-    background-color: var(--fundoverdeclar);
-    font-weight: 300;
-}
-
-.tophero .filtros button:hover {
-    cursor: pointer;
-    background-color: var(--verde2);
-    transition: 0.2s;
+.img {
+    border-radius: 10px 10px 0 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 /* REGRAS DE POSICIONAMENTO - EXCETO TOPHERO(HEADER)*/
+
+/* O PRIMEIRO NTH-CHILD É O HEADER MAS ELE NÃO QUIS FUNCIONAR AQUI, DEIXEI ELE QUIETO */
 
 .hero:nth-child(2) {
     grid-area: proj1;
@@ -80,4 +79,33 @@
 
 .hero:nth-child(8) {
     grid-area: proj7;
+}
+
+@media screen and (max-width:992px) {
+    .hero {
+    max-width: 100%;
+    width: 100vw;
+    display: grid;
+    grid-template-areas: 
+        "header header"
+        "proj1   proj2"
+        "proj3   proj4"
+        "proj5   proj6"
+        "proj7   proj8";
+    grid-template-columns: repeat(2,1fr);
+    gap: 1rem;
+    margin: var(--section) 0 var(--section) 0;
+    padding: 2rem;
+    }
+}
+
+@media screen and (max-width:576px) {
+    .hero {
+    max-width: 1200px;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    margin: var(--section) 0 var(--section) 0;
+    }
+
 }
