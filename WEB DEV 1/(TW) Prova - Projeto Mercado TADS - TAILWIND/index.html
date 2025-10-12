@@ -6,12 +6,25 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
     <title>Document</title>
+    <link rel="stylesheet" href="./tailwind.css">
     <link rel="stylesheet" href="style.css">
 </head>
 
-<body>
-    <p><i class="fas fa-store"></i> Mercado TADS</p>
-
+<body >
+    <div class="container">
+        <a href="#"><i class="fas fa-store"></i> Mercado TADS</a>
+            <h1 class="text-3xl font-bold underline">
+            Hello world!
+            </h1>
+        <button class="bg-sky-700 px-4 py-2 text-white hover:bg-sky-800 sm:px-8 sm:py-3">Submit</button>
+        <div class="mx-auto flex max-w-sm items-center gap-x-4 rounded-xl bg-white p-6 shadow-lg outline outline-black/5 dark:bg-slate-800 dark:shadow-none dark:-outline-offset-1 dark:outline-white/10">
+            <img class="size-12 shrink-0" src="/img/logo.svg" alt="ChitChat Logo" />
+                <div>
+                    <div class="text-xl font-medium text-black dark:text-white">ChitChat</div>
+                    <p class="text-gray-500 dark:text-gray-400">You have a new message!</p>
+                </div>
+        </div>
+    </div>
 </body>
 
 </html>
