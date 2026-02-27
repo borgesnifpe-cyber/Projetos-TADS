@@ -5,13 +5,12 @@ import java.util.Scanner;
 public class StringExemple {
     public static void main (String[] args) {
         //Instanciando objetos string de diferentes formas:
-        String str1 = "Olá, Mundo!";
+        String str1 = new String ("Olá, Mundo!");
         String str2 = new String ("Java é muito divertido!");
         String str3 = new String (); //String vazia
-        String str4 = new String ("Aprender java pelos fundamentos é excelente.");
 
         //Concatenando Strings
-        String fraseCompleta = str1+""+str2;
+        String fraseCompleta = str1+str3+str2;
         IO.println(fraseCompleta);
 
         //Usando métodos da classe String
