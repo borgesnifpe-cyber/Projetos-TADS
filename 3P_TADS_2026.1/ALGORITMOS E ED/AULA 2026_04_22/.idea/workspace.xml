@@ -1,0 +1,1077 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BackendCodeEditorMiscSettings">
+    <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
+    <option name="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue" value="true" type="bool" />
+    <option name="/Default/RiderDebugger/RiderRestoreDecompile/RestoreDecompileSetting/@EntryValue" value="false" type="bool" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="AULA_2026_04_22" targetName="prob1part2" />
+      <config projectName="AULA_2026_04_22" targetName="prob1part1" />
+      <config projectName="AULA_2026_04_22" targetName="prob2part2" />
+      <config projectName="AULA_2026_04_22" targetName="prob2part1" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="092fddf3-1d19-451a-8496-97b4b6eeb90c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/appG/Time.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/appG/docs/allclasses-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/appG/docs/allclasses-noframe.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/appG/docs/com/deitel/Time.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/appG/docs/com/deitel/package-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/appG/docs/com/deitel/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/appG/docs/com/deitel/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/appG/docs/constant-values.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/appG/docs/deprecated-list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/appG/docs/help-doc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/appG/docs/index-all.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/appG/docs/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/appG/docs/overview-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/appG/docs/package-list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/appG/docs/resources/background.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/appG/docs/resources/tab.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/appG/docs/resources/titlebar.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/appG/docs/resources/titlebar_end.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/appG/docs/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/appH/Unicode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/appH/UnicodeJFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/appI/FigI_02/IntegerConversionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/appI/FigI_04/FloatingNumberTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/appI/FigI_05/CharStringConversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/appI/FigI_09/DateTimeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/appI/FigI_11/OtherConversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/appI/FigI_12/FieldWidthTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/appI/FigI_13/PrecisionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/appI/FigI_15/MinusFlagTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/appI/FigI_16/PlusFlagTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/appI/FigI_17/SpaceFlagTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/appI/FigI_18/PoundFlagTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/appI/FigI_19/ZeroFlagTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/appI/FigI_20/CommaFlagTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/appI/FigI_21/ParenthesesFlagTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/appI/FigI_22/ArgumentIndexTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/appI/FigI_24/FormatterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch01/painter/DrawFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch01/painter/DrawPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch01/painter/MyBoundedShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch01/painter/MyLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch01/painter/MyOval.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch01/painter/MyRect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch01/painter/MyShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch01/painter/Painter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch02/ex02_06/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch02/fig02_01/Welcome1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch02/fig02_03/Welcome2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch02/fig02_04/Welcome3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch02/fig02_06/Welcome4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch02/fig02_07/Addition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch02/fig02_15/Comparison.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch03/Fig03_12/Dialog1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch03/Fig03_13/NameDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch03/fig03_01-02/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch03/fig03_01-02/AccountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch03/fig03_05-06/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch03/fig03_05-06/AccountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch03/fig03_08-09/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch03/fig03_08-09/AccountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch04/Fig04_04-05/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch04/Fig04_04-05/StudentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch04/Fig04_08/ClassAverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch04/Fig04_10/ClassAverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch04/Fig04_12/Analysis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch04/Fig04_15/Increment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch04/Fig04_18_19/DrawPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch04/Fig04_18_19/DrawPanelTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch04/ex04_06/Calculate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch04/ex04_16/Mystery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch04/ex04_25/Mystery2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch04/ex04_26/Mystery3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch05/ex05_10/Printing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch05/fig05_01/WhileCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch05/fig05_02/ForCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch05/fig05_05/Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch05/fig05_06/Interest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch05/fig05_07/DoWhileTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch05/fig05_09/LetterGrades.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch05/fig05_11_12/AutoPolicy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch05/fig05_11_12/AutoPolicyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch05/fig05_13/BreakTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch05/fig05_14/ContinueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch05/fig05_20/LogicalOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch05/fig05_26_27/Shapes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch05/fig05_26_27/ShapesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch06/exercise06_03/MathTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch06/exercise06_06/Sphere.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch06/fig06_03/MaximumFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch06/fig06_06/RandomIntegers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch06/fig06_07/RollDie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch06/fig06_08/Craps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch06/fig06_09/Scope.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch06/fig06_10/MethodOverload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch06/fig06_11_12/DrawSmiley.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch06/fig06_11_12/DrawSmileyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch07/fig07_02/InitArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch07/fig07_03/InitArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch07/fig07_04/InitArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch07/fig07_05/SumArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch07/fig07_06/BarChart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch07/fig07_07/RollDie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch07/fig07_08/StudentPoll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch07/fig07_09_11/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch07/fig07_09_11/DeckOfCards.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch07/fig07_09_11/DeckOfCardsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch07/fig07_12/EnhancedForTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch07/fig07_13/PassArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch07/fig07_14_15/GradeBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch07/fig07_14_15/GradeBookTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch07/fig07_17/InitArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch07/fig07_18_19/GradeBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch07/fig07_18_19/GradeBookTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch07/fig07_20/VarargsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch07/fig07_21/InitArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch07/fig07_22/ArrayManipulations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch07/fig07_24/ArrayListCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch07/fig07_25_26/DrawRainbow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch07/fig07_25_26/DrawRainbowTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch08/fig08_01_02/Time1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch08/fig08_01_02/Time1Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch08/fig08_03/MemberAccessTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch08/fig08_03/Time1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch08/fig08_04/ThisTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch08/fig08_05_06/Time2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch08/fig08_05_06/Time2Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch08/fig08_07_09/Date.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch08/fig08_07_09/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch08/fig08_07_09/EmployeeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch08/fig08_10_11/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch08/fig08_10_11/EnumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch08/fig08_12_13/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch08/fig08_12_13/EmployeeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch08/fig08_14/StaticImportTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch08/fig08_15/PackageDataTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch08/fig08_16/Interest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch08/fig08_17_19/DrawPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch08/fig08_17_19/MyLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch08/fig08_17_19/TestDraw.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch09/fig09_04_05/CommissionEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch09/fig09_04_05/CommissionEmployeeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch09/fig09_06_07/BasePlusCommissionEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch09/fig09_06_07/BasePlusCommissionEmployeeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch09/fig09_08/BasePlusCommissionEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch09/fig09_08/CommissionEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch09/fig09_09/BasePlusCommissionEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch09/fig09_09/BasePlusCommissionEmployeeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch09/fig09_09/CommissionEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch09/fig09_10_11/BasePlusCommissionEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch09/fig09_10_11/BasePlusCommissionEmployeeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch09/fig09_10_11/CommissionEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch09/fig09_13/GUItip.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch09/fig09_13/LabelDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch10/Fig10_01/BasePlusCommissionEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch10/Fig10_01/CommissionEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch10/Fig10_01/PolymorphismTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch10/Fig10_04_09/BasePlusCommissionEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch10/Fig10_04_09/CommissionEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch10/Fig10_04_09/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch10/Fig10_04_09/HourlyEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch10/Fig10_04_09/PayrollSystemTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch10/Fig10_04_09/SalariedEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch10/Fig10_11_15/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch10/Fig10_11_15/Invoice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch10/Fig10_11_15/Payable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch10/Fig10_11_15/PayableInterfaceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch10/Fig10_11_15/SalariedEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch11/fig11_02/DivideByZeroNoExceptionHandling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch11/fig11_03/DivideByZeroWithExceptionHandling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch11/fig11_05/UsingExceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch11/fig11_06/UsingExceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch11/fig11_07/UsingChainedExceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch11/fig11_08/AssertTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch12/fig12_02/Addition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch12/fig12_06_07/LabelFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch12/fig12_06_07/LabelTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch12/fig12_06_07/bug1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch12/fig12_09_10/TextFieldFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch12/fig12_09_10/TextFieldTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch12/fig12_15_16/ButtonFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch12/fig12_15_16/ButtonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch12/fig12_15_16/bug1.GIF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch12/fig12_15_16/bug2.GIF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch12/fig12_17_18/CheckBoxFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch12/fig12_17_18/CheckBoxTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch12/fig12_19_20/RadioButtonFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch12/fig12_19_20/RadioButtonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch12/fig12_21_22/ComboBoxFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch12/fig12_21_22/ComboBoxTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch12/fig12_21_22/bug1.GIF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch12/fig12_21_22/bug2.GIF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch12/fig12_21_22/buganim.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch12/fig12_21_22/travelbug.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch12/fig12_23_24/ListFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch12/fig12_23_24/ListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch12/fig12_25_26/MultipleSelectionFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch12/fig12_25_26/MultipleSelectionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch12/fig12_28_29/MouseTracker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch12/fig12_28_29/MouseTrackerFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch12/fig12_31_32/MouseDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch12/fig12_31_32/MouseDetailsFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch12/fig12_34_35/PaintPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch12/fig12_34_35/Painter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch12/fig12_36_37/KeyDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch12/fig12_36_37/KeyDemoFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch12/fig12_39_40/FlowLayoutDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch12/fig12_39_40/FlowLayoutFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch12/fig12_41_42/BorderLayoutDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch12/fig12_41_42/BorderLayoutFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch12/fig12_43_44/GridLayoutDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch12/fig12_43_44/GridLayoutFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch12/fig12_45_46/PanelDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch12/fig12_45_46/PanelFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch12/fig12_47_48/TextAreaDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch12/fig12_47_48/TextAreaFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch13/fig13_05_06/ColorJPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch13/fig13_05_06/ShowColors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch13/fig13_07_08/ShowColors2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch13/fig13_07_08/ShowColors2JFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch13/fig13_11_12/FontJPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch13/fig13_11_12/Fonts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch13/fig13_15_16/Metrics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch13/fig13_15_16/MetricsJPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch13/fig13_18_19/LinesRectsOvals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch13/fig13_18_19/LinesRectsOvalsJPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch13/fig13_24_25/ArcsJPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch13/fig13_24_25/DrawArcs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch13/fig13_27_28/DrawPolygons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch13/fig13_27_28/PolygonsJPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch13/fig13_29_30/Shapes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch13/fig13_29_30/ShapesJPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch13/fig13_31_32/Shapes2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch13/fig13_31_32/Shapes2JPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch14/fig14_01/StringConstructors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch14/fig14_02/StringMiscellaneous.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch14/fig14_03/StringCompare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch14/fig14_04/StringStartEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch14/fig14_05/StringIndexMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch14/fig14_06/SubString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch14/fig14_07/StringConcatenation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch14/fig14_08/StringMiscellaneous2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch14/fig14_09/StringValueOf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch14/fig14_10/StringBuilderConstructors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch14/fig14_11/StringBuilderCapLen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch14/fig14_12/StringBuilderChars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch14/fig14_13/StringBuilderAppend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch14/fig14_14/StringBuilderInsertDelete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch14/fig14_15/StaticCharMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch14/fig14_16/StaticCharMethods2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch14/fig14_17/OtherCharMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch14/fig14_18/TokenTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch14/fig14_20_21/Validate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch14/fig14_20_21/ValidateInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch14/fig14_23/RegexSubstitution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch14/fig14_24/RegexMatches.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch15/SerializationApps/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch15/SerializationApps/CreateSequentialFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch15/SerializationApps/ReadSequentialFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch15/TextFileApps/CreateTextFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch15/TextFileApps/CreditInquiry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch15/TextFileApps/MenuOption.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch15/TextFileApps/ReadTextFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch15/TextFileApps/clients.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch15/fig15_02/FileAndDirectoryInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch15/fig15_12-13/JFileChooserDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch15/fig15_12-13/JFileChooserTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch16/fig16_02/CollectionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch16/fig16_03/ListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch16/fig16_04/UsingToArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch16/fig16_06/Sort1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch16/fig16_07/Sort2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch16/fig16_08_09/Sort3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch16/fig16_08_09/Time2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch16/fig16_08_09/TimeComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch16/fig16_10/DeckOfCards.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch16/fig16_11/Algorithms1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch16/fig16_12/BinarySearchTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch16/fig16_12/FactorialCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch16/fig16_12/FibonacciCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch16/fig16_12/Fractal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch16/fig16_12/FractalJPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch16/fig16_12/MysteryClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch16/fig16_12/SomeClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch16/fig16_12/TowersOfHanoi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch16/fig16_13/Algorithms2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch16/fig16_14/StackTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch16/fig16_15/PriorityQueueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch16/fig16_16/SetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch16/fig16_17/SortedSetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch16/fig16_18/WordTypeCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch16/fig16_19/PropertiesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch16/fig16_19/props.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch17/fig12_21_22_lambda/ComboBoxFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch17/fig12_21_22_lambda/ComboBoxTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch17/fig12_21_22_lambda/bug1.GIF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch17/fig12_21_22_lambda/bug2.GIF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch17/fig12_21_22_lambda/buganim.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch17/fig12_21_22_lambda/travelbug.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch17/fig17_05/IntStreamOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch17/fig17_06/ArraysAndStreams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch17/fig17_07/ArraysAndStreams2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch17/fig17_09-16/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch17/fig17_09-16/ProcessingEmployees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch17/fig17_17/Chapter2Paragraph.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch17/fig17_17/StreamOfLines.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch17/fig17_19/RandomIntStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch18/ex18_12/MysteryClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch18/ex18_13/SomeClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch18/fig18_03/FactorialCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch18/fig18_04/FactorialCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch18/fig18_05/FibonacciCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch18/fig18_09/FactorialCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch18/fig18_11/TowersOfHanoi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch18/fig18_18_19/Fractal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch18/fig18_18_19/FractalJPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch19/Fig19_02/LinearSearchTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch19/Fig19_03/BinarySearchTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch19/Fig19_04/SelectionSortTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch19/Fig19_05/InsertionSortTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch19/Fig19_06/MergeSortTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch20/fig20_01/OverloadedMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch20/fig20_03/GenericMethodTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch20/fig20_05/MaximumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch20/fig20_07_09/EmptyStackException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch20/fig20_07_09/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch20/fig20_07_09/StackTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch20/fig20_10/EmptyStackException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch20/fig20_10/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch20/fig20_10/StackTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch20/fig20_11/EmptyStackException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch20/fig20_11/RawTypeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch20/fig20_11/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch20/fig20_13/TotalNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch20/fig20_13/TotalNumbersErrors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch20/fig20_14/WildcardTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch20/fig20_14/WildcardTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch21/fig21_03_05/EmptyListException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch21/fig21_03_05/List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch21/fig21_03_05/ListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch21/fig21_10_11/StackInheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch21/fig21_10_11/StackInheritanceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch21/fig21_12/StackComposition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch21/fig21_12/StackCompositionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch21/fig21_13_14/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch21/fig21_13_14/QueueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch21/fig21_17_18/Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch21/fig21_17_18/TreeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch22/fig22_02-04/OvalPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch22/fig22_02-04/SliderDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch22/fig22_02-04/SliderFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch22/fig22_05-06/MenuFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch22/fig22_05-06/MenuTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch22/fig22_07-08/PopupFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch22/fig22_07-08/PopupTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch22/fig22_09-10/LookAndFeelDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch22/fig22_09-10/LookAndFeelFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch22/fig22_11-12/DesktopFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch22/fig22_11-12/DesktopTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch22/fig22_11-12/lavenderflowers.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch22/fig22_11-12/purpleflowers.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch22/fig22_11-12/redflowers.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch22/fig22_11-12/redflowers2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch22/fig22_11-12/yellowflowers.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch22/fig22_13-14/JTabbedPaneDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch22/fig22_13-14/JTabbedPaneFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch22/fig22_16-17/BoxLayoutDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch22/fig22_16-17/BoxLayoutFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch22/fig22_21-22/GridBagDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch22/fig22_21-22/GridBagFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch22/fig22_23-24/GridBagDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch22/fig22_23-24/GridBagFrame2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch23/Fig23_03_04/PrintTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch23/Fig23_03_04/TaskExecutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch23/Fig23_05-07/ArrayWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch23/Fig23_05-07/SharedArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch23/Fig23_05-07/SimpleArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch23/Fig23_08/ArrayWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch23/Fig23_08/SharedArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch23/Fig23_08/SimpleArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch23/Fig23_09-13/Buffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch23/Fig23_09-13/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch23/Fig23_09-13/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch23/Fig23_09-13/SharedBufferTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch23/Fig23_09-13/UnsynchronizedBuffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch23/Fig23_14-15/BlockingBuffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch23/Fig23_14-15/BlockingBufferTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch23/Fig23_14-15/Buffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch23/Fig23_14-15/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch23/Fig23_14-15/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch23/Fig23_16-17/Buffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch23/Fig23_16-17/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch23/Fig23_16-17/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch23/Fig23_16-17/SharedBufferTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch23/Fig23_16-17/SynchronizedBuffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch23/Fig23_18-19/Buffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch23/Fig23_18-19/CircularBuffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch23/Fig23_18-19/CircularBufferTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch23/Fig23_18-19/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch23/Fig23_18-19/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch23/Fig23_20-21/Buffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch23/Fig23_20-21/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch23/Fig23_20-21/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch23/Fig23_20-21/SharedBufferTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch23/Fig23_20-21/SynchronizedBuffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch23/Fig23_24-25/BackgroundCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch23/Fig23_24-25/FibonacciNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch23/Fig23_26-27/FindPrimes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch23/Fig23_26-27/PrimeCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch23/Fig23_28/SortComparison.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch23/Fig23_29/StreamStatisticsComparison.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch23/Fig23_30/FibonacciDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/addressbook_example-WithDatabaseDefined/AddressBookDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/addressbook_example-WithDatabaseDefined/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/addressbook_example-WithDatabaseDefined/PersonQueries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/addressbook_example-WithDatabaseDefined/addressbook/db.lck" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/addressbook_example-WithDatabaseDefined/addressbook/log/log.ctrl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/addressbook_example-WithDatabaseDefined/addressbook/log/log1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/addressbook_example-WithDatabaseDefined/addressbook/log/logmirror.ctrl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/addressbook_example-WithDatabaseDefined/addressbook/seg0/c10.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/addressbook_example-WithDatabaseDefined/addressbook/seg0/c101.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/addressbook_example-WithDatabaseDefined/addressbook/seg0/c111.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/addressbook_example-WithDatabaseDefined/addressbook/seg0/c121.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/addressbook_example-WithDatabaseDefined/addressbook/seg0/c130.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/addressbook_example-WithDatabaseDefined/addressbook/seg0/c141.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/addressbook_example-WithDatabaseDefined/addressbook/seg0/c150.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/addressbook_example-WithDatabaseDefined/addressbook/seg0/c161.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/addressbook_example-WithDatabaseDefined/addressbook/seg0/c171.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/addressbook_example-WithDatabaseDefined/addressbook/seg0/c180.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/addressbook_example-WithDatabaseDefined/addressbook/seg0/c191.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/addressbook_example-WithDatabaseDefined/addressbook/seg0/c1a1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/addressbook_example-WithDatabaseDefined/addressbook/seg0/c1b1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/addressbook_example-WithDatabaseDefined/addressbook/seg0/c1c0.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/addressbook_example-WithDatabaseDefined/addressbook/seg0/c1d1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/addressbook_example-WithDatabaseDefined/addressbook/seg0/c1e0.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/addressbook_example-WithDatabaseDefined/addressbook/seg0/c1f1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/addressbook_example-WithDatabaseDefined/addressbook/seg0/c20.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/addressbook_example-WithDatabaseDefined/addressbook/seg0/c200.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/addressbook_example-WithDatabaseDefined/addressbook/seg0/c211.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/addressbook_example-WithDatabaseDefined/addressbook/seg0/c221.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/addressbook_example-WithDatabaseDefined/addressbook/seg0/c230.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/addressbook_example-WithDatabaseDefined/addressbook/seg0/c241.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/addressbook_example-WithDatabaseDefined/addressbook/seg0/c251.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/addressbook_example-WithDatabaseDefined/addressbook/seg0/c260.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/addressbook_example-WithDatabaseDefined/addressbook/seg0/c271.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/addressbook_example-WithDatabaseDefined/addressbook/seg0/c281.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/addressbook_example-WithDatabaseDefined/addressbook/seg0/c290.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/addressbook_example-WithDatabaseDefined/addressbook/seg0/c2a1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/addressbook_example-WithDatabaseDefined/addressbook/seg0/c2b1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/addressbook_example-WithDatabaseDefined/addressbook/seg0/c2c1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/addressbook_example-WithDatabaseDefined/addressbook/seg0/c2d0.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/addressbook_example-WithDatabaseDefined/addressbook/seg0/c2e1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/addressbook_example-WithDatabaseDefined/addressbook/seg0/c2f0.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/addressbook_example-WithDatabaseDefined/addressbook/seg0/c300.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/addressbook_example-WithDatabaseDefined/addressbook/seg0/c31.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/addressbook_example-WithDatabaseDefined/addressbook/seg0/c311.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/addressbook_example-WithDatabaseDefined/addressbook/seg0/c321.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/addressbook_example-WithDatabaseDefined/addressbook/seg0/c331.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/addressbook_example-WithDatabaseDefined/addressbook/seg0/c340.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/addressbook_example-WithDatabaseDefined/addressbook/seg0/c351.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/addressbook_example-WithDatabaseDefined/addressbook/seg0/c361.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/addressbook_example-WithDatabaseDefined/addressbook/seg0/c371.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/addressbook_example-WithDatabaseDefined/addressbook/seg0/c380.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/addressbook_example-WithDatabaseDefined/addressbook/seg0/c391.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/addressbook_example-WithDatabaseDefined/addressbook/seg0/c3a1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/addressbook_example-WithDatabaseDefined/addressbook/seg0/c3b1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/addressbook_example-WithDatabaseDefined/addressbook/seg0/c3c0.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/addressbook_example-WithDatabaseDefined/addressbook/seg0/c3d1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/addressbook_example-WithDatabaseDefined/addressbook/seg0/c3e1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/addressbook_example-WithDatabaseDefined/addressbook/seg0/c3f1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/addressbook_example-WithDatabaseDefined/addressbook/seg0/c400.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/addressbook_example-WithDatabaseDefined/addressbook/seg0/c41.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/addressbook_example-WithDatabaseDefined/addressbook/seg0/c411.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/addressbook_example-WithDatabaseDefined/addressbook/seg0/c421.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/addressbook_example-WithDatabaseDefined/addressbook/seg0/c430.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/addressbook_example-WithDatabaseDefined/addressbook/seg0/c441.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/addressbook_example-WithDatabaseDefined/addressbook/seg0/c451.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/addressbook_example-WithDatabaseDefined/addressbook/seg0/c461.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/addressbook_example-WithDatabaseDefined/addressbook/seg0/c470.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/addressbook_example-WithDatabaseDefined/addressbook/seg0/c51.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/addressbook_example-WithDatabaseDefined/addressbook/seg0/c60.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/addressbook_example-WithDatabaseDefined/addressbook/seg0/c71.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/addressbook_example-WithDatabaseDefined/addressbook/seg0/c81.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/addressbook_example-WithDatabaseDefined/addressbook/seg0/c90.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/addressbook_example-WithDatabaseDefined/addressbook/seg0/ca1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/addressbook_example-WithDatabaseDefined/addressbook/seg0/cb1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/addressbook_example-WithDatabaseDefined/addressbook/seg0/cc0.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/addressbook_example-WithDatabaseDefined/addressbook/seg0/cd1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/addressbook_example-WithDatabaseDefined/addressbook/seg0/ce1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/addressbook_example-WithDatabaseDefined/addressbook/seg0/cf0.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/addressbook_example-WithDatabaseDefined/addressbook/service.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/addressbook_example/AddressBookDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/addressbook_example/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/addressbook_example/PersonQueries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples-WithDatabaseDefined/DisplayAuthors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples-WithDatabaseDefined/DisplayQueryResults.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples-WithDatabaseDefined/JdbcRowSetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples-WithDatabaseDefined/ResultSetTableModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples-WithDatabaseDefined/books/db.lck" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples-WithDatabaseDefined/books/log/log.ctrl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples-WithDatabaseDefined/books/log/log1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples-WithDatabaseDefined/books/log/logmirror.ctrl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples-WithDatabaseDefined/books/seg0/c10.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples-WithDatabaseDefined/books/seg0/c101.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples-WithDatabaseDefined/books/seg0/c111.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples-WithDatabaseDefined/books/seg0/c121.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples-WithDatabaseDefined/books/seg0/c130.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples-WithDatabaseDefined/books/seg0/c141.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples-WithDatabaseDefined/books/seg0/c150.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples-WithDatabaseDefined/books/seg0/c161.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples-WithDatabaseDefined/books/seg0/c171.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples-WithDatabaseDefined/books/seg0/c180.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples-WithDatabaseDefined/books/seg0/c191.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples-WithDatabaseDefined/books/seg0/c1a1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples-WithDatabaseDefined/books/seg0/c1b1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples-WithDatabaseDefined/books/seg0/c1c0.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples-WithDatabaseDefined/books/seg0/c1d1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples-WithDatabaseDefined/books/seg0/c1e0.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples-WithDatabaseDefined/books/seg0/c1f1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples-WithDatabaseDefined/books/seg0/c20.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples-WithDatabaseDefined/books/seg0/c200.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples-WithDatabaseDefined/books/seg0/c211.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples-WithDatabaseDefined/books/seg0/c221.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples-WithDatabaseDefined/books/seg0/c230.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples-WithDatabaseDefined/books/seg0/c241.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples-WithDatabaseDefined/books/seg0/c251.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples-WithDatabaseDefined/books/seg0/c260.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples-WithDatabaseDefined/books/seg0/c271.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples-WithDatabaseDefined/books/seg0/c281.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples-WithDatabaseDefined/books/seg0/c290.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples-WithDatabaseDefined/books/seg0/c2a1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples-WithDatabaseDefined/books/seg0/c2b1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples-WithDatabaseDefined/books/seg0/c2c1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples-WithDatabaseDefined/books/seg0/c2d0.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples-WithDatabaseDefined/books/seg0/c2e1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples-WithDatabaseDefined/books/seg0/c2f0.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples-WithDatabaseDefined/books/seg0/c300.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples-WithDatabaseDefined/books/seg0/c31.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples-WithDatabaseDefined/books/seg0/c311.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples-WithDatabaseDefined/books/seg0/c321.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples-WithDatabaseDefined/books/seg0/c331.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples-WithDatabaseDefined/books/seg0/c340.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples-WithDatabaseDefined/books/seg0/c351.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples-WithDatabaseDefined/books/seg0/c361.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples-WithDatabaseDefined/books/seg0/c371.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples-WithDatabaseDefined/books/seg0/c380.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples-WithDatabaseDefined/books/seg0/c391.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples-WithDatabaseDefined/books/seg0/c3a1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples-WithDatabaseDefined/books/seg0/c3b1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples-WithDatabaseDefined/books/seg0/c3c0.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples-WithDatabaseDefined/books/seg0/c3d1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples-WithDatabaseDefined/books/seg0/c3e1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples-WithDatabaseDefined/books/seg0/c3f1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples-WithDatabaseDefined/books/seg0/c400.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples-WithDatabaseDefined/books/seg0/c41.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples-WithDatabaseDefined/books/seg0/c411.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples-WithDatabaseDefined/books/seg0/c421.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples-WithDatabaseDefined/books/seg0/c430.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples-WithDatabaseDefined/books/seg0/c441.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples-WithDatabaseDefined/books/seg0/c451.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples-WithDatabaseDefined/books/seg0/c461.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples-WithDatabaseDefined/books/seg0/c4e0.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples-WithDatabaseDefined/books/seg0/c4f1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples-WithDatabaseDefined/books/seg0/c500.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples-WithDatabaseDefined/books/seg0/c51.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples-WithDatabaseDefined/books/seg0/c511.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples-WithDatabaseDefined/books/seg0/c520.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples-WithDatabaseDefined/books/seg0/c531.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples-WithDatabaseDefined/books/seg0/c541.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples-WithDatabaseDefined/books/seg0/c550.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples-WithDatabaseDefined/books/seg0/c561.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples-WithDatabaseDefined/books/seg0/c570.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples-WithDatabaseDefined/books/seg0/c581.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples-WithDatabaseDefined/books/seg0/c590.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples-WithDatabaseDefined/books/seg0/c5a1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples-WithDatabaseDefined/books/seg0/c5b1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples-WithDatabaseDefined/books/seg0/c60.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples-WithDatabaseDefined/books/seg0/c71.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples-WithDatabaseDefined/books/seg0/c81.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples-WithDatabaseDefined/books/seg0/c90.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples-WithDatabaseDefined/books/seg0/ca1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples-WithDatabaseDefined/books/seg0/cb1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples-WithDatabaseDefined/books/seg0/cc0.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples-WithDatabaseDefined/books/seg0/cd1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples-WithDatabaseDefined/books/seg0/ce1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples-WithDatabaseDefined/books/seg0/cf0.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples-WithDatabaseDefined/books/service.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples/DisplayAuthors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples/DisplayQueryResults.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples/JdbcRowSetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch24/ch24/books_examples/ResultSetTableModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/TipCalculator/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/TipCalculator/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/TipCalculator/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/TipCalculator/nbproject/configs/Run_as_WebStart.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/TipCalculator/nbproject/configs/Run_in_Browser.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/TipCalculator/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/TipCalculator/nbproject/jfx-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/TipCalculator/nbproject/private/configs/Run_as_WebStart.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/TipCalculator/nbproject/private/configs/Run_in_Browser.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/TipCalculator/nbproject/private/private.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/TipCalculator/nbproject/private/private.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/TipCalculator/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/TipCalculator/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/TipCalculator/src/TipCalculator.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/TipCalculator/src/TipCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/TipCalculator/src/TipCalculatorController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/Welcome/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/Welcome/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/Welcome/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/Welcome/nbproject/configs/Run_as_WebStart.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/Welcome/nbproject/configs/Run_in_Browser.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/Welcome/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/Welcome/nbproject/jfx-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/Welcome/nbproject/private/configs/Run_as_WebStart.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/Welcome/nbproject/private/configs/Run_in_Browser.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/Welcome/nbproject/private/private.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/Welcome/nbproject/private/private.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/Welcome/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/Welcome/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/Welcome/src/Welcome.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/Welcome/src/Welcome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/Welcome/src/bug.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/images/bug.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/images/cards/AceofClubs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/images/cards/AceofDiamonds.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/images/cards/AceofHearts.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/images/cards/AceofSpades.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/images/cards/EightofClubs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/images/cards/EightofDiamonds.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/images/cards/EightofHearts.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/images/cards/EightofSpades.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/images/cards/FiveofClubs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/images/cards/FiveofDiamonds.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/images/cards/FiveofHearts.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/images/cards/FiveofSpades.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/images/cards/FourofClubs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/images/cards/FourofDiamonds.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/images/cards/FourofHearts.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/images/cards/FourofSpades.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/images/cards/JackofClubs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/images/cards/JackofDiamonds.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/images/cards/JackofHearts.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/images/cards/JackofSpades.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/images/cards/KingofClubs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/images/cards/KingofDiamonds.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/images/cards/KingofHearts.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/images/cards/KingofSpades.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/images/cards/NineofClubs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/images/cards/NineofDiamonds.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/images/cards/NineofHearts.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/images/cards/NineofSpades.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/images/cards/QueenofClubs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/images/cards/QueenofDiamonds.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/images/cards/QueenofHearts.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/images/cards/QueenofSpades.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/images/cards/SevenofClubs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/images/cards/SevenofDiamonds.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/images/cards/SevenofHearts.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/images/cards/SevenofSpades.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/images/cards/SixofClubs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/images/cards/SixofDiamonds.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/images/cards/SixofHearts.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/images/cards/SixofSpades.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/images/cards/TenofClubs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/images/cards/TenofDiamonds.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/images/cards/TenofHearts.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/images/cards/TenofSpades.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/images/cards/ThreeofClubs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/images/cards/ThreeofDiamonds.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/images/cards/ThreeofHearts.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/images/cards/ThreeofSpades.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/images/cards/TwoofClubs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/images/cards/TwoofDiamonds.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/images/cards/TwoofHearts.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/images/cards/TwoofSpades.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/images/cards/cardback.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/images/dice/die1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/images/dice/die1Small.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/images/dice/die2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/images/dice/die2Small.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/images/dice/die3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/images/dice/die3Small.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/images/dice/die4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/images/dice/die4Small.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/images/dice/die5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/images/dice/die5Small.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/images/dice/die6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch25/images/dice/die6Small.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch34/ATM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch34/ATMCaseStudy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch34/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch34/BalanceInquiry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch34/BankDatabase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch34/CashDispenser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch34/Deposit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch34/DepositSlot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch34/Keypad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch34/Screen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch34/Transaction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/ch34/Withdrawal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/debugger/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/debugger/AccountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/JavaHowToProgram10eEarlyObjectsVersion-master/examples/debugger/Interest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/Arquivo_de_log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc/allclasses-index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc/allpackages-index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc/copy.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc/element-list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc/help-doc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc/index-files/index-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc/index-files/index-10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc/index-files/index-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc/index-files/index-3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc/index-files/index-4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc/index-files/index-5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc/index-files/index-6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc/index-files/index-7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc/index-files/index-8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc/index-files/index-9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc/legal/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc/legal/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc/legal/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc/legal/jquery.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc/legal/jqueryUI.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc/link.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc/member-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc/module-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc/overview-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc/package-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc/resources/glass.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc/resources/x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc/script-dir/jquery-3.7.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc/script-dir/jquery-ui.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc/script-dir/jquery-ui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc/search-page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc/search.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc/search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc/soparia/Gravador.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc/soparia/Pedido.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc/soparia/class-use/Gravador.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc/soparia/class-use/Pedido.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc/soparia/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc/soparia/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc/soparia/package-use.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc/tag-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc/type-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc_terminal/allclasses-index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc_terminal/allpackages-index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc_terminal/animais/Aguia.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc_terminal/animais/Animal.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc_terminal/animais/Ave.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc_terminal/animais/Boi.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc_terminal/animais/Cao.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc_terminal/animais/Galinha.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc_terminal/animais/Mamifero.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc_terminal/animais/Pinguim.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc_terminal/animais/TestadorAnimais.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc_terminal/animais/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc_terminal/animais/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc_terminal/banco/Conta.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc_terminal/banco/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc_terminal/banco/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc_terminal/copy.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc_terminal/element-list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc_terminal/help-doc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc_terminal/index-all.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc_terminal/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc_terminal/io/ExemploScanner.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc_terminal/io/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc_terminal/io/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc_terminal/legal/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc_terminal/legal/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc_terminal/legal/jquery.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc_terminal/legal/jqueryUI.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc_terminal/link.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc_terminal/member-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc_terminal/module-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc_terminal/overview-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc_terminal/overview-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc_terminal/package-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc_terminal/resources/glass.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc_terminal/resources/x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc_terminal/script-dir/jquery-3.7.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc_terminal/script-dir/jquery-ui.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc_terminal/script-dir/jquery-ui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc_terminal/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc_terminal/search-page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc_terminal/search.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc_terminal/search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc_terminal/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc_terminal/tag-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc_terminal/type-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc_v2/allclasses-index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc_v2/allpackages-index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc_v2/copy.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc_v2/element-list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc_v2/help-doc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc_v2/index-files/index-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc_v2/index-files/index-10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc_v2/index-files/index-11.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc_v2/index-files/index-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc_v2/index-files/index-3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc_v2/index-files/index-4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc_v2/index-files/index-5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc_v2/index-files/index-6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc_v2/index-files/index-7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc_v2/index-files/index-8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc_v2/index-files/index-9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc_v2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc_v2/legal/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc_v2/legal/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc_v2/legal/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc_v2/legal/jquery.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc_v2/legal/jqueryUI.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc_v2/link.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc_v2/member-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc_v2/module-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc_v2/overview-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc_v2/package-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc_v2/resources/glass.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc_v2/resources/x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc_v2/script-dir/jquery-3.7.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc_v2/script-dir/jquery-ui.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc_v2/script-dir/jquery-ui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc_v2/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc_v2/search-page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc_v2/search.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc_v2/search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc_v2/soparia/Gravador.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc_v2/soparia/Pedido.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc_v2/soparia/TestadorGravador.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc_v2/soparia/class-use/Gravador.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc_v2/soparia/class-use/Pedido.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc_v2/soparia/class-use/TestadorGravador.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc_v2/soparia/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc_v2/soparia/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc_v2/soparia/package-use.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc_v2/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc_v2/tag-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/doc_v2/type-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/log_do_kernel.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/objetos.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/LPOO_2025_2/texto_original.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2P - TADS 2025.2/POO - JAVA/RevisionTesteFinal" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="20" />
+    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="OFu4Tg24" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2026" />
+    <option name="minorVersion" value="1.1" />
+    <option name="productBranch" value="Classic" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3Cv3hbA4NKsY64CUUilqD5sE84F" />
+  <component name="ProjectStatusUIService">{
+  &quot;uiKindId&quot;: &quot;Widget&quot;
+}</component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;CMake Application.prob1part1.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.prob1part2.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.prob2part1.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.prob2part2.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.RadMigrateCodeStyle&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.west.config.association.type.startup.service&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Nathan/Projetos/IFPE - ADS/3P_TADS_2026.1/ALGORITMOS E ED/AULA 2026_04_22&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;org.rust.first.attach.projects&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.completion.inline&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="CMake Application.prob1part2">
+    <configuration name="prob1part1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AULA_2026_04_22" TARGET_NAME="prob1part1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AULA_2026_04_22" RUN_TARGET_NAME="prob1part1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="prob1part2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AULA_2026_04_22" TARGET_NAME="prob1part2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AULA_2026_04_22" RUN_TARGET_NAME="prob1part2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="prob2part1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AULA_2026_04_22" TARGET_NAME="prob2part1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AULA_2026_04_22" RUN_TARGET_NAME="prob2part1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="prob2part2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AULA_2026_04_22" TARGET_NAME="prob2part2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AULA_2026_04_22" RUN_TARGET_NAME="prob2part2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.prob1part1" />
+      <item itemvalue="CMake Application.prob1part2" />
+      <item itemvalue="CMake Application.prob2part1" />
+      <item itemvalue="CMake Application.prob2part2" />
+    </list>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="092fddf3-1d19-451a-8496-97b4b6eeb90c" name="Changes" comment="" />
+      <created>1777252337539</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1777252337539</updated>
+      <workItem from="1777252338676" duration="277000" />
+      <workItem from="1777252630438" duration="5122000" />
+      <workItem from="1777307953208" duration="962000" />
+      <workItem from="1777311578624" duration="4129000" />
+      <workItem from="1777330948708" duration="2193000" />
+      <workItem from="1777399031389" duration="7658000" />
+      <workItem from="1777420657223" duration="166000" />
+      <workItem from="1777506790354" duration="4279000" />
+      <workItem from="1777512289685" duration="694000" />
+      <workItem from="1777576595131" duration="34000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticReloadCMake value="true" />
+    <isAutomaticBootstrapAfterUpdate value="false" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/pilha_min.cpp</url>
+          <line>18</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/fila_media.cpp</url>
+          <line>45</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/fila_media.cpp</url>
+          <line>33</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/fila_media.cpp</url>
+          <line>27</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/fila_media.cpp</url>
+          <line>21</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/fila_media.cpp</url>
+          <line>58</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/fila_media.cpp</url>
+          <line>64</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/fila_media.cpp</url>
+          <line>69</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/parentesis.cpp</url>
+          <line>10</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/parentesis.cpp</url>
+          <line>13</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/round_robin.cpp</url>
+          <line>18</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
